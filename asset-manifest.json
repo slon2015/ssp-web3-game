@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ssp-web3-game/static/css/main.073c9b0a.css",
+    "main.js": "/ssp-web3-game/static/js/main.230833c1.js",
+    "static/js/787.bc31cf72.chunk.js": "/ssp-web3-game/static/js/787.bc31cf72.chunk.js",
+    "index.html": "/ssp-web3-game/index.html",
+    "main.073c9b0a.css.map": "/ssp-web3-game/static/css/main.073c9b0a.css.map",
+    "main.230833c1.js.map": "/ssp-web3-game/static/js/main.230833c1.js.map",
+    "787.bc31cf72.chunk.js.map": "/ssp-web3-game/static/js/787.bc31cf72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.230833c1.js"
+  ]
+}
