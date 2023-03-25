@@ -1,0 +1,5 @@
+export { checkGameToFinish } from './checkGameToFinish'
+export { checkPlayerToJoin } from './checkPlayerToJoin'
+export { joinGame } from './joinGame'
+export { makeMove } from './makeMove'
+export { startGame } from './startGame'
