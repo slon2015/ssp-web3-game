@@ -2,6 +2,7 @@
   "name": "stone-scissors-paper-dapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://slon2015.github.io/ssp-web3-game/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.5",
